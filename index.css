@@ -1,0 +1,10 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+  }
